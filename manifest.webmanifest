@@ -1,7 +1,7 @@
 {
-  "name": "Baixa por CTRC",
-  "short_name": "Baixa CTRC",
-  "description": "Registro de baixas de entrega por CTRC",
+  "name": "Baixa de Entrega",
+  "short_name": "Baixa de Entrega",
+  "description": "Registro de baixas de entrega",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
